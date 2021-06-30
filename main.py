@@ -1,5 +1,5 @@
-import nltk_testing
-from nltk_testing import languageProcessing
+import spacy_testing
+from spacy_testing import languageProcessing
 
 # Story templates store the main story data
 
